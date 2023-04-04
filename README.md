@@ -1,5 +1,6 @@
 
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7048697898070409216" target="_blank">Subscribe on LinkedIn</a>
+href="https://www.bing.com/ck/a?!&&p=cb74efed28b39ffcJmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0wMWFiYTk0My0wNjg5LTY3OTctMTljMy1iYjUxMDc3ZTY2NTUmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=01aba943-0689-6797-19c3-bb51077e6655&psq=adv+indian+coder&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzBrbzFlRDNTWFR2dUJKZkpIT1F1VVEvdmlkZW9z&ntb=1" target="_blank">⚡Subscribe on YouTube🌱🌱🌱 </a>
 
 
 
