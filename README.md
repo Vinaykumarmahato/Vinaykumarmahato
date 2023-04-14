@@ -5,7 +5,7 @@
 <a class="libutton" href="https://www.instagram.com/tech_for_indias_lover/?igshid=ZDdkNTZiNTM%3D" target="_blank">⚡Follow me on Instagram🌱🌱🌱
 </a>
 
-![alt text](https://github.com/ADVindiancoder/ADVindiancoder/blob/main/my%20babby.png)
+![Alt Text](dhanu.png)
 
 
 
