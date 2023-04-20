@@ -5,6 +5,9 @@
 <a class="libutton" href="https://www.instagram.com/tech_for_indias_lover/?igshid=ZDdkNTZiNTM%3D" target="_blank">⚡Follow me on Instagram🌱🌱🌱
 </a>
 
+<a class="libutton" href="https://leetcode.com/vinay_kumar56/" target="_blank">⚡View my LeetCode Profile🌱🌱🌱
+</a>
+
 ![Alt Text](dhanu.png)
 
 
