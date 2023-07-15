@@ -43,6 +43,7 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ADVindiancoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=ADVindiancoder&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
