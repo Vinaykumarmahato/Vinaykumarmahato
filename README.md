@@ -8,7 +8,7 @@
 <a class="libutton" href="https://leetcode.com/vinay_kumar56/" target="_blank">⚡View my LeetCode Profile🌱🌱🌱
 </a>
 
-![Alt Text](ppp.jfif)
+![Alt Text](ani-removebg-preview.png)
 
 
 
