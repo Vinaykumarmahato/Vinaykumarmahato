@@ -1,20 +1,26 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://advinternship.netlify.app)
+<h1 align="center">Hi 👋, I'm Vinay Kumar [ ADV Indian Coder ]</h1>
+<h3 align="center">A passionate java Developer & Front-End Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7048697898070409216" target="_blank">⚡Subscribe on LinkedIn🌱🌱🌱</a>
+<a class="libutton" href="https://www.linkedin.com/company/adv-indian-coder/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A96634760&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bfkq6jeCsQGSZn9%2FQ5mhF4Q%3D%3D" target="_blank">⚡Follow our company page 🌱🌱🌱</a>
 <a class="libutton" href="https://www.bing.com/ck/a?!&&p=cb74efed28b39ffcJmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0wMWFiYTk0My0wNjg5LTY3OTctMTljMy1iYjUxMDc3ZTY2NTUmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=01aba943-0689-6797-19c3-bb51077e6655&psq=adv+indian+coder&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzBrbzFlRDNTWFR2dUJKZkpIT1F1VVEvdmlkZW9z&ntb=1" target="_blank">⚡Subscribe on YouTube🌱🌱🌱
 </a>
-<a class="libutton" href="https://www.instagram.com/tech_for_indias_lover/?igshid=ZDdkNTZiNTM%3D" target="_blank">⚡Follow me on Instagram🌱🌱🌱
-</a>
 
-<a class="libutton" href="https://leetcode.com/vinay_kumar56/" target="_blank">⚡View my LeetCode Profile🌱🌱🌱
-</a>
 
-![Alt Text](ani-removebg-preview.png)
+
+
 
 
 
 
 # 💫 About Me:
-🔭 I’m currently working on content creation and freelancing also I'm doing internship by pw Skills in the field of java development<br>👯 I’m looking to collaborate on Back-End  development as well as content creation<br>🤝 I’m looking for help with developing many software that can find the user easily<br>🌱 I’m currently learning java DSA system Design by pw skills ( Physics wallah )<br>💬 Ask me about - java, HTML, CSS, JAVASCRIPT | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | PHOTOGRAPHY & EDITER |<br>⚡ Fun fact - coding lover , singing , teaching 
+🔭 I’m currently working on java development & My own Company. <br>
+👯 I’m looking to collaborate on Back-End  development as well as Front-End Dev.<br>
+🤝 I’m looking for help with developing many software that can find the user easily.<br>
+🌱 I’m currently learning java DSA system Design by pw skills ( Physics wallah ).<br>
+💬 Ask me about - java, HTML, CSS, JAVASCRIPT | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | PHOTOGRAPHY & EDITER |<br>
+⚡ Fun fact - coding lover , singing , teaching.
 
 
 ## 🌐 Socials:
