@@ -1,6 +1,11 @@
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/vinay-kumar860964" target="_blank"> Vinay Kumar </a></h1>
+
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=java+Developer+%3A)" /> </h3>
+
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://advinternship.netlify.app)
-<h1 align="center">Hi 👋, I'm Vinay Kumar [ ADV Indian Coder ]</h1>
-<h3 align="center">A passionate java Developer & Front-End Developer from India</h3>
+<h1 align="center">Also known as , ADV Indian Coder</h1>
+<h2 align="center">A passionate java Developer & Front-End Developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <a class="libutton" href="https://www.linkedin.com/company/adv-indian-coder/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A96634760&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bfkq6jeCsQGSZn9%2FQ5mhF4Q%3D%3D" target="_blank">⚡Follow our company page 🌱🌱🌱</a>
