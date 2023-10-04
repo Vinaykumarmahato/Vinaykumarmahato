@@ -1,11 +1,10 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Hii+I+am+Vinay+Kumar+java+Developer+YouTuber+FrontEnd+Developer+Content+writer+And+Founder+of+ADV+Indian+Coder+%3A)" /> </h3>
 
-<div style="text-align: center; display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="text-align: center; display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
   <a href="https://advinternship.netlify.app">
-    <img src="https://www.moldech.com/wp-content/uploads/2022/07/96143-developer.gif" style="max-width: 100%;" alt="MasterHead">
+    <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="MasterHead">
   </a>
 </div>
-
 
 <h1 align="center">👋 Hii I'm Vinay Kumar Also known as ADV Indian Coder</h1>
 <h2 align="center">A passionate java Developer & Front-End Developer from India</h2>
