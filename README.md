@@ -5,6 +5,7 @@
     <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="MasterHead">
   </a>
 </div>
+<br>
 <p align = "center"> 
   <a href = "https://twitter.com/Akshu_on_github">
     <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon">
