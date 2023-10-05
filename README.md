@@ -2,7 +2,7 @@
 
 <div style="text-align: center; display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
   <a href="https://advinternship.netlify.app">
-    <img src="https://raw.githubusercontent.com/ADVindiancoder/ADVindiancoder/main/ezgif.com-reverse.gif" alt="MasterHead" width="100%" height="100%">
+    <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="MasterHead">
   </a>
 </div>
 
