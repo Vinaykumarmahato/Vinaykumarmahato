@@ -1,10 +1,48 @@
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Hii+I+am+Vinay+Kumar+java+Developer+YouTuber+FrontEnd+Developer+Content+writer+And+Founder+of+ADV+Indian+Coder+%3A)" /> </h3>
 
-<div style="text-align: center; display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
-  <a href="https://advinternship.netlify.app">
-    <img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="MasterHead">
+<p align = "center"> 
+  <a href = "https://twitter.com/Akshu_on_github">
+    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon">
   </a>
-</div>
+  
+  <a href = "https://www.linkedin.com/in/vinay-kumar860964">
+    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon">
+  </a>
+
+  <a href = "https://youtube.com/@advindiancoder">
+    <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt = "YouTube Icon">
+  </a> 
+  
+  <a href = "https://vinaykumaradv.netlify.app/">
+    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt = "Medium Icon" width=64px>
+  </a>
+</p>
+
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
+
+<br>
+
+### 🌱 Domains of Interest:
+- Java Development
+- Front-End Development
+- Android App Development
+
+### 🍃 Academic Projects:
+- Covid-19 Vaccine Analysis
+- Smart Flood Early Warning System
+- Library Management System
+- School Management System
+- College Management System
+- Hospital Management System
+
+### ✨ Coming Soon:
+- My own Android Application
+- Clean Street Index (App)
+- Complete DSA , java , System design Lecture on Youtube
+- Full guid for become a java developer 
+- If this goes down, so does the Internet (Video series)
+
+<br>
+
 
 <h1 align="center">👋 Hii I'm Vinay Kumar Also known as ADV Indian Coder</h1>
 <h2 align="center">A passionate java Developer & Front-End Developer from India</h2>
