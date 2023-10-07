@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 30px; font-weight: bold; color: white;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=white&lines=Welcome+to+my+GitHub+Profile!;I'm+Vinay+Kumar,java+Developer,YouTuber;FrontEnd+Developer,Content+writer;Founder+of+ADV+Indian+Coder+%F0%9F%9A%80">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=25&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
 </h1>
 
 
