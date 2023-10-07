@@ -1,4 +1,16 @@
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Hii+I+am+Vinay+Kumar+java+Developer+YouTuber+FrontEnd+Developer+Content+writer+And+Founder+of+ADV+Indian+Coder+%3A)" /> </h3>
+<h1 align="center" style="font-size: 30px; font-weight: bold; color: white;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Welcome+to+my+GitHub+Profile!;I'm+Vinay+Kumar,java+Developer,YouTuber;FrontEnd+Developer,Content+writer;Founder+of+ADV+Indian+Coder+%F0%9F%9A%80">
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/java-Developer-0357F7?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/YouTuber-FF0000?style=for-the-badge&logo=youtube">
+  <img src="https://img.shields.io/badge/FrontEnd-Developer-61DAFB?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/Content-Writer-FFD700?style=for-the-badge&logo=markdown">
+  <img src="https://img.shields.io/badge/Founder-ADV+Indian+Coder-008000?style=for-the-badge">
+</p>
+
+<p align="center">🚀 Passionate about coding, creating content, and sharing knowledge!</p>
 
 
    [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://advinternship.netlify.app)
