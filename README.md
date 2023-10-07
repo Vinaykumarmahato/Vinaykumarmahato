@@ -1,6 +1,7 @@
 <h1 align="center" style="font-size: 30px; font-weight: bold; color: white;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Welcome+to+my+GitHub+Profile!;I'm+Vinay+Kumar,java+Developer,YouTuber;FrontEnd+Developer,Content+writer;Founder+of+ADV+Indian+Coder+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.herokuapp.com?color=white&lines=Welcome+to+my+GitHub+Profile!;I'm+Vinay+Kumar,java+Developer,YouTuber;FrontEnd+Developer,Content+writer;Founder+of+ADV+Indian+Coder+%F0%9F%9A%80">
 </h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-Developer-0357F7?style=for-the-badge&logo=java">
