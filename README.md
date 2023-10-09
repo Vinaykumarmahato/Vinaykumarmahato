@@ -114,6 +114,8 @@
     <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="hacktoberfest-docker"/> </a>
     <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/> </a>
     </p>
+        <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/> </a>
+
 
 
 ### ✍️ Random Vinay kumar java developer Quotes
