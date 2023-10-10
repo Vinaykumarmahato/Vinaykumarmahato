@@ -104,17 +104,34 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/ADV_India_coder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
- ## 🛡️ leetCode Badges
-  
-  <p align=""> <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="CEH"/> </a> 
-  <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/DS_II.png"/> </a>
- <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="hacktoberfest-level2"/> </a>
-    <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.png" alt="hacktoberfest-level3"/> </a>
-    <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png"/> </a>
-    <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="hacktoberfest-docker"/> </a>
-    <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/> </a>
-    </p>
-        <a href="https://vinaykumaradv.netlify.app/" target="blank"><img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/> </a>
+## 🛡️ LeetCode Badges 
+<p align="">
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="CEH"/>
+  </a>
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/DS_II.png"/>
+  </a>
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="hacktoberfest-level2"/>
+  </a>
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.png" alt="hacktoberfest-level3"/>
+  </a>
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png"/>
+  </a>
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="hacktoberfest-docker"/>
+  </a>
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+    <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/>
+  </a>
+</p>
+<a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/>
+</a>
+
 
 <h2 align='center'><i><a href="https://github.com/ADVindiancoder/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
