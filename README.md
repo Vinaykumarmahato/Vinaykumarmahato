@@ -127,10 +127,11 @@
   <a href="https://vinaykumaradv.netlify.app/" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/>
   </a>
-</p>
-<a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://vinaykumaradv.netlify.app/" target="blank">
   <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/>
 </a>
+</p>
+
 
 
 <h2 align='center'><i><a href="https://github.com/ADVindiancoder/github-readme-activity-graph">Activity Graph 📈</i></h2>
