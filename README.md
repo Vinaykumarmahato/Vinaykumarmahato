@@ -154,6 +154,10 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/paytm-00457C?style=for-the-badge&logo=paypal&logoColor=white)](9931860964) 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=ADVindiancoder&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
