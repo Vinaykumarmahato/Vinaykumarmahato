@@ -93,18 +93,24 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ADVindiancoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ADVindiancoder&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADVindiancoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+
+# 📈 Github Stats:
+
+<div style="text-align: center;">
+  <div style="flex: 1;"></div> <!-- Vinay Kumar -->
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=ADVindiancoder&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADVindiancoder&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <div style="flex: 1;"></div> <!-- Vinay Kumar -->
+</div>
+
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ADVindiancoder&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
+# 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/ADV_India_coder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## 🛡️ LeetCode Badges 
+# 🛡️ LeetCode Badges 
 <p align="">
   <a href="https://vinaykumaradv.netlify.app/" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="CEH"/>
@@ -144,17 +150,17 @@
 </a>
 </p>
 
-### ✍️ Random Vinay kumar java developer Quotes
+## ✍️ Random Vinay kumar java developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ADVindiancoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random vinay kumar java developer Meme
+## 😂 Random vinay kumar java developer Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 
-  ## 💰 You can help me by Donating
+  # 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/paytm-00457C?style=for-the-badge&logo=paypal&logoColor=white)](9931860964) 
 
 
@@ -163,5 +169,7 @@
 [![](https://visitcount.itsvg.in/api?id=ADVindiancoder&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
  
-<h3 align="left">Know More About me:</h3>
-<p><a href="https://vinaykumaradv.netlify.app/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ADVindiancoder" /></a></p><br><br>
+# ✍️ Know More About me:
+<a href="https://advindiancoder.github.io/Vinay-Kumar---Personal-Portfolio-Website/">
+  <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
+</a>
