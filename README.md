@@ -14,7 +14,14 @@
 <p align="center">🚀 Passionate about coding, creating content, and sharing knowledge!</p>
 
 
-[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)](https://advinternship.netlify.app) [![MasterHead](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)](https://advinternship.netlify.app)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://advinternship.netlify.app">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="48%" />
+  </a>
+  <a href="https://advinternship.netlify.app">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="48%" />
+  </a>
+</div>
 
 
 
