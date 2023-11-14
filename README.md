@@ -58,12 +58,14 @@
 </a>
 
 ## 💫 About Me:
-<p style="font-size: 1.2em; line-height: 1.6; font-weight: 400; color: #333;">🔭 Currently immersed in Java development and steering my own company.<br>
-👯 Open to collaboration in Back-End development, Front-End development, and Android app development.<br>
-🤝 Seeking assistance in crafting software solutions that make user interaction seamless.<br>
-🌱 Mastered Java, Data Structures and Algorithms (DSA), and system design with the guidance of PW Skills (Physics Wallah).<br>
-💬 Ask me about Java, HTML, CSS, JavaScript | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | Photography & Editing.<br>
-⚡ Fun fact - A coding enthusiast who loves singing and teaching.</p>
+<ul style="list-style-type: none; font-size: 1.2em; line-height: 1.6; font-weight: 400; color: #333;">
+  <li>🔭 Currently immersed in Java development and steering my own company.</li>
+  <li>👯 Open to collaboration in Back-End development, Front-End development, and Android app development.</li>
+  <li>🤝 Seeking assistance in crafting software solutions that make user interaction seamless.</li>
+  <li>🌱 Mastered Java, Data Structures and Algorithms (DSA), and system design with the guidance of PW Skills (Physics Wallah).</li>
+  <li>💬 Ask me about Java, HTML, CSS, JavaScript | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | Photography & Editing.</li>
+  <li>⚡ Fun fact - A coding enthusiast who loves singing and teaching.</li>
+</ul>
 
 <img src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align="right" alt="my_octocat" width="475px">
 
