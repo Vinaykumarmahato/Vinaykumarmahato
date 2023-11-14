@@ -45,31 +45,8 @@
   </a>
 </p>
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
 
-<br>
 
-### 🌱 Domains of Interest:
-- Java Development
-- Front-End Development
-- Android App Development
-
-### 🍃 Academic Projects:
-- Covid-19 Vaccine Analysis
-- Smart Flood Early Warning System
-- Library Management System
-- School Management System
-- College Management System
-- Hospital Management System
-
-### ✨ Coming Soon:
-- My own Android Application
-- Clean Street Index (App)
-- Complete DSA , java , System design Lecture on Youtube
-- Full guid for become a java developer 
-- If this goes down, so does the Internet (Video series)
-
-<br>
 
 
 <h1 align="center">👋 Hii I'm Vinay Kumar Founder of ADV Indian Coder</h1>
@@ -81,13 +58,42 @@
 </a>
 
 ## 💫 About Me:
-🔭 I’m currently working on java development & My own Company. <br>
-👯 I’m looking to collaborate on Back-End  development Front-End Dev as well as Android Development.<br>
-🤝 I’m looking for help with developing many software that can find the user easily.<br>
-🌱 I've learned Java, Data Structures and Algorithms (DSA), and system design with the help of PW Skills (Physics Wallah).
-💬 Ask me about - java, HTML, CSS, JAVASCRIPT | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | PHOTOGRAPHY & EDITER |<br>
-⚡ Fun fact - coding lover , singing , teaching.
+<p style="font-size: 1.2em; line-height: 1.6; font-weight: 400; color: #333;">🔭 Currently immersed in Java development and steering my own company.<br>
+👯 Open to collaboration in Back-End development, Front-End development, and Android app development.<br>
+🤝 Seeking assistance in crafting software solutions that make user interaction seamless.<br>
+🌱 Mastered Java, Data Structures and Algorithms (DSA), and system design with the guidance of PW Skills (Physics Wallah).<br>
+💬 Ask me about Java, HTML, CSS, JavaScript | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | Photography & Editing.<br>
+⚡ Fun fact - A coding enthusiast who loves singing and teaching.</p>
 
+<img src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align="right" alt="my_octocat" width="475px">
+
+### 🌱 Domains of Interest:
+<ul style="list-style-type: square; font-size: 1.1em; line-height: 1.6; font-weight: 400; color: #555;">
+  <li>Java Development</li>
+  <li>Front-End Development</li>
+  <li>Android App Development</li>
+</ul>
+
+### 🍃 Academic Projects:
+<ul style="list-style-type: square; font-size: 1.1em; line-height: 1.6; font-weight: 400; color: #555;">
+  <li>Covid-19 Vaccine Analysis</li>
+  <li>Smart Flood Early Warning System</li>
+  <li>Library Management System</li>
+  <li>School Management System</li>
+  <li>College Management System</li>
+  <li>Hospital Management System</li>
+</ul>
+
+### ✨ Coming Soon:
+<ul style="list-style-type: square; font-size: 1.1em; line-height: 1.6; font-weight: 400; color: #555;">
+  <li>My Own Android Application</li>
+  <li>Clean Street Index (App)</li>
+  <li>Complete DSA, Java, System Design Lectures on YouTube</li>
+  <li>Full Guide to Become a Java Developer</li>
+  <li>If this goes down, so does the Internet (Video Series)</li>
+</ul>
+
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/groups/602312964862870/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/invites/contact/?i=td1e6t78x4bp&utm_content=oeyjr77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar860964) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ADV_India_coder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@advindiancoder) 
