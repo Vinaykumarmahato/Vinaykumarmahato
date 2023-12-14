@@ -179,6 +179,6 @@
 
  
 ## ✍️ Know More About me:
-<a href="https://advindiancoder.github.io/Vinay-Kumar---Personal-Portfolio-Website/">
+<a href="https://advindiancoder.github.io/Linktree/">
   <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
 </a>
