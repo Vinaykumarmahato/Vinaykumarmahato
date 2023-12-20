@@ -51,7 +51,7 @@
 
 <h1 align="center">👋 Hii I'm Vinay Kumar Founder of ADV Indian Coder</h1>
 <h2 align="center">A passionate java Developer , Front-End Developer from India</h2>
-<img align="right" alt="Coding" width="400" src="https://github.com/ADVindiancoder/ADVindiancoder/blob/main/75e7ef7aa27009befb076509382b86b8.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/75e7ef7aa27009befb076509382b86b8.gif">
 
 <a class="libutton" href="https://www.linkedin.com/company/adv-indian-coder/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A96634760&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bfkq6jeCsQGSZn9%2FQ5mhF4Q%3D%3D" target="_blank">⚡Follow our company page 🌱🌱🌱</a>
 <a class="libutton" href="https://www.bing.com/ck/a?!&&p=cb74efed28b39ffcJmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0wMWFiYTk0My0wNjg5LTY3OTctMTljMy1iYjUxMDc3ZTY2NTUmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=01aba943-0689-6797-19c3-bb51077e6655&psq=adv+indian+coder&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzBrbzFlRDNTWFR2dUJKZkpIT1F1VVEvdmlkZW9z&ntb=1" target="_blank">⚡Subscribe on YouTube🌱🌱🌱
@@ -108,41 +108,41 @@
 
 <div style="text-align: center;">
   <div style="flex: 1;"></div> <!-- Vinay Kumar -->
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=ADVindiancoder&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADVindiancoder&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Vinaykumarmahato&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarmahato&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <div style="flex: 1;"></div> <!-- Vinay Kumar -->
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ADVindiancoder&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vinaykumarmahato&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/ADV_India_coder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ## 🛡️ LeetCode Badges 
 <p align="">
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://vinaykumarmahato.github.io/leetcode/" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png" alt="CEH"/>
   </a>
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/DS_II.png"/>
   </a>
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked-1.png" alt="hacktoberfest-level2"/>
   </a>
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.png" alt="hacktoberfest-level3"/>
   </a>
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png"/>
   </a>
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png" alt="hacktoberfest-docker"/>
   </a>
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
     <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png"/>
   </a>
-  <a href="https://vinaykumaradv.netlify.app/" target="blank">
+  <a href="https://https://vinaykumarmahato.github.io/leetcode//" target="blank">
   <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="hacktoberfest-docker"/>
 </a>
   <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg100.png" alt="hacktoberfest-docker"/>
@@ -153,13 +153,13 @@
 
 
 
-<h2 align='center'><i><a href="https://github.com/ADVindiancoder/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><i><a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/ADVindiancoder/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADVindiancoder&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+<a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-<a href="https://github.com/ADVindiancoder/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADVindiancoder&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+<a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
 
@@ -167,7 +167,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ADVindiancoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Vinaykumarmahato&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 😂 Random vinay kumar java developer Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
@@ -179,10 +179,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![](https://visitcount.itsvg.in/api?id=ADVindiancoder&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vinaykumarmahato&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
  
 ## ✍️ Know More About me:
-<a href="https://advindiancoder.github.io/Linktree/">
+<a href="https://Vinaykumarmahato.github.io/Linktree/">
   <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
 </a>
