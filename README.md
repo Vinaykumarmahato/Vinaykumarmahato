@@ -60,7 +60,6 @@
   <li>⚡ Fun fact - A coding enthusiast who loves singing and teaching.</li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align="right" alt="my_octocat" width="475px">
 
 ### 🌱 Domains of Interest:
 <ul style="list-style-type: square; font-size: 1.1em; line-height: 1.6; font-weight: 400; color: #555;">
