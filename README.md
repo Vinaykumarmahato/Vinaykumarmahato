@@ -47,14 +47,15 @@
 <a class="libutton" href="https://www.bing.com/ck/a?!&&p=cb74efed28b39ffcJmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0wMWFiYTk0My0wNjg5LTY3OTctMTljMy1iYjUxMDc3ZTY2NTUmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=01aba943-0689-6797-19c3-bb51077e6655&psq=adv+indian+coder&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzBrbzFlRDNTWFR2dUJKZkpIT1F1VVEvdmlkZW9z&ntb=1" target="_blank">⚡Subscribe on YouTube🌱🌱🌱</a>
 
 ## 🌟 Professional Background
-- 💻 **Programming Languages:** _Java, Python, SQL_
-- 🗃️ **Frameworks:** _Spring Boot, Hibernate_
-- 🚀 **Version Control:** _Git_
-- 🖥️ **Operating Systems:** _Windows, Linux_
-- ☕ **Java Technologies:** _Java, J2EE, JDBC, Servlets, SOAP, WSDL_
-- 🐬 **Databases:** _MySQL, Oracle_
-- 🌌 **IDEs:** _Eclipse, 🔍 VsCode, 📝 Sublime Text, 🤖 Android Studio_
+- 💻 **Programming Languages:** _☕ Java, 🐍 Python, SQL_
+- 🗃️ **Frameworks:** _🚀 Spring Boot, 🐘 Hibernate_
+- 🚀 **Version Control:** _📂 Git_
+- 🖥️ **Operating Systems:** _🖥️ Windows, 🐧 Linux_
+- ☕ **Java Technologies:** _☕ Java, J2EE, JDBC, Servlets, 🧼 SOAP, 📝 WSDL_
+- 🐬 **Databases:** _🌌 MySQL, Oracle_
+- 🌌 **IDEs:** _🌌 Eclipse, 🔍 VsCode, 📝 Sublime Text, 🤖 Android Studio_
 - 🌐 **Web Technologies:** _HTML, 🎨 CSS, 💻 JavaScript_
+
 
 
 ## 🎥 YouTube Channel
@@ -122,15 +123,6 @@ Connect with me:
   <img src="https://img.shields.io/badge/Linktree-%23ff69b4.svg?logo=linktree&logoColor=white" alt="Linktree" style="width: 120px; height: 40px; border: 4px solid #ff69b4; border-radius: 10px;">
 </a>
 
-
-
-
-
-
-
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 
 ## 📈 Github Stats:
