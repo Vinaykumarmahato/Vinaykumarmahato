@@ -55,9 +55,15 @@
 Greetings! 👋 I'm Vinay Kumar, a passionate Java Developer and current BTech (IT) student, with a relentless commitment to technology and a pursuit of excellence. Here's a bit about my journey:
 
 ## 🌟 Professional Background
-- 💻 **Programming Languages:** Java, Python, C, HTML, CSS, JavaScript
-- 🗃️ **Database Management Systems:** MySQL, MongoDB
-- 🚀 **Technologies:** JDBC, Git
+- 💻 **Programming Languages:** _Java, Python, SQL_
+- 🗃️ **Frameworks:** _Spring Boot, Hibernate_
+- 🚀 **Version Control:** _Git_
+- 🖥️ **Operating Systems:** _Windows, Linux_
+- ☕ **Java Technologies:** _Java, J2EE, JDBC, Servlets, SOAP, WSDL_
+- 🐬 **Databases:** _MySQL, Oracle_
+- 🌌 **IDEs:** _Eclipse, 🔍 VsCode, 📝 Sublime Text, 🤖 Android Studio_
+- 🌐 **Web Technologies:** _HTML, 🎨 CSS, 💻 JavaScript_
+
 
 ## 🎥 YouTube Channel
 In addition to my academic endeavors, I'm an enthusiastic YouTuber, sharing insights and tutorials on Java development. You can find my videos covering a range of topics, from programming fundamentals to advanced Java concepts.
