@@ -97,9 +97,60 @@
 
 <br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/groups/602312964862870/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/invites/contact/?i=td1e6t78x4bp&utm_content=oeyjr77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar860964) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ADV_India_coder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@advindiancoder) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%231877F2.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/vinaykumarADV/)
+<p align="left">
+  <a href="https://github.com/Vinaykumarmahato/Vinaykumarmahato" target="_blank">
+    <img src="https://img.shields.io/github/followers/Vinaykumarmahato?label=Follow&style=social" alt="GitHub Follow Button" style="width: 120px; height: 30px;">
+  </a>
+</p>
+
+  
+
+
+# 🌐 Socials:
+<a href="https://facebook.com/groups/602312964862870/" target="_blank" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" style="width: 80px; height: 40px; border: 4px solid #3b5998; border-radius: 10px;">
+</a>
+
+<a href="https://www.instagram.com/vinay_software_engineer?igsh=MXd0a2J4ZGwyZnZreg==" target="_blank" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 80px; height: 40px; border: 4px solid #e4405f; border-radius: 10px;">
+</a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar860964" target="_blank" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 40px; border: 4px solid #0077b5; border-radius: 10px;">
+</a>
+
+<a href="https://twitter.com/https://twitter.com/ADV_India_coder" target="_blank" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="width: 80px; height: 40px; border: 4px solid #1da1f2; border-radius: 10px;">
+</a>
+
+<a href="https://youtube.com/@https://youtube.com/@advindiancoder" target="_blank" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="width: 80px; height: 40px; border: 4px solid #ff0000; border-radius: 10px;">
+</a>
+
+<a href="https://leetcode.com/vinaykumarADV/" target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?logo=Leetcode&logoColor=white" alt="Leetcode" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/vinaykumazhjn" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-%23FFD700.svg?logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" style="width: 80px; height: 40px; border: 4px solid #ffd700; border-radius: 10px;">
+</a>
+
+
+<a href="https://vinaykumarmahato.github.io/vinay-kumar-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%230e75b6.svg?logo=GeeksforGeeks&logoColor=white" alt="Portfolio" style="width: 120px; height: 40px; border: 4px solid #0e75b6; border-radius: 10px;">
+</a>
+
+<a href="https://vinaykumarmahato.github.io/Linktree/" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree-%23ff69b4.svg?logo=linktree&logoColor=white" alt="Linktree" style="width: 120px; height: 40px; border: 4px solid #ff69b4; border-radius: 10px;">
+</a>
+
+
+
+
+
+
+
+
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
