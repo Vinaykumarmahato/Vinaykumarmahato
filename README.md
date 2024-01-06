@@ -1,8 +1,9 @@
+<!-- Welcome Section -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
 </h1>
 
-
+<!-- Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/java-Developer-0357F7?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/YouTuber-FF0000?style=for-the-badge&logo=youtube">
@@ -11,48 +12,39 @@
   <img src="https://img.shields.io/badge/Founder-ADV+Indian+Coder-008000?style=for-the-badge">
 </p>
 
+<!-- Introduction Section -->
 <h2 align="center">🚀 Passionate about coding, creating content, and sharing knowledge!</h2>
 
-
+<!-- Header Image -->
 ![Alt Text](https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/black%20white%20green%20modern%20illustrative%20computer%20google%20classroom%20header%20(3).png)
 
-
-
-
-
+<!-- Social Media Links Section -->
 <br>
-<p align = "center"> 
-  <a href = "https://twitter.com/ADV_India_coder">
-    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt = "Twitter Icon">
+<p align="center"> 
+  <a href="https://twitter.com/ADV_India_coder">
+    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt="Twitter Icon">
   </a>
   
-  <a href = "https://www.linkedin.com/in/vinay-kumar860964">
-    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt = "LinkedIn Icon">
+  <a href="https://www.linkedin.com/in/vinay-kumar860964">
+    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt="LinkedIn Icon">
   </a>
 
-  <a href = "https://youtube.com/@advindiancoder">
-    <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt = "YouTube Icon">
+  <a href="https://youtube.com/@advindiancoder">
+    <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt="YouTube Icon">
   </a> 
   
-  <a href = "https://vinaykumaradv.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt = "Medium Icon" width=64px>
+  <a href="https://vinaykumaradv.netlify.app/">
+    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt="Medium Icon" width=64px>
   </a>
 </p>
 
+<!-- About Section -->
+<h1 align="center">👋 Hi, I'm Vinay Kumar, Founder of ADV Indian Coder</h1>
+<h2 align="center">A passionate Java Developer, Front-End Developer from India</h2>
 
-
-
-
-<h1 align="center">👋 Hii I'm Vinay Kumar Founder of ADV Indian Coder</h1>
-<h2 align="center">A passionate java Developer , Front-End Developer from India</h2>
-
+<!-- Call-to-Action Buttons -->
 <a class="libutton" href="https://www.linkedin.com/company/adv-indian-coder/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A96634760&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bfkq6jeCsQGSZn9%2FQ5mhF4Q%3D%3D" target="_blank">⚡Follow My Company Page 🌱🌱🌱</a>
-<a class="libutton" href="https://www.bing.com/ck/a?!&&p=cb74efed28b39ffcJmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0wMWFiYTk0My0wNjg5LTY3OTctMTljMy1iYjUxMDc3ZTY2NTUmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=01aba943-0689-6797-19c3-bb51077e6655&psq=adv+indian+coder&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzBrbzFlRDNTWFR2dUJKZkpIT1F1VVEvdmlkZW9z&ntb=1" target="_blank">⚡Subscribe on YouTube🌱🌱🌱
-</a>
-
-# 💫 About Vinay Kumar - ADV Indian Coder
-
-Greetings! 👋 I'm Vinay Kumar, a passionate Java Developer and current BTech (IT) student, with a relentless commitment to technology and a pursuit of excellence. Here's a bit about my journey:
+<a class="libutton" href="https://www.bing.com/ck/a?!&&p=cb74efed28b39ffcJmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0wMWFiYTk0My0wNjg5LTY3OTctMTljMy1iYjUxMDc3ZTY2NTUmaW5zaWQ9NTE4Ng&ptn=3&hsh=3&fclid=01aba943-0689-6797-19c3-bb51077e6655&psq=adv+indian+coder&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzBrbzFlRDNTWFR2dUJKZkpIT1F1VVEvdmlkZW9z&ntb=1" target="_blank">⚡Subscribe on YouTube🌱🌱🌱</a>
 
 ## 🌟 Professional Background
 - 💻 **Programming Languages:** _Java, Python, SQL_
