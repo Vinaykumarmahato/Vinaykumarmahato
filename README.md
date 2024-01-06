@@ -71,9 +71,9 @@ I bring with me five years of teaching experience, effectively communicating com
 Feel free to explore my GitHub repositories for code snippets, projects, and more. Let's code and learn together! 🚀
 
 Connect with me:
-- 📺 [YouTube](<link to your YouTube channel>)
+- 📺 [YouTube](<https://youtube.com/@advindiancoder>)
 - 💼 [LinkedIn](<https://www.linkedin.com/in/vinay-kumar860964>)
-- 🐦 [Twitter](<link to your Twitter profile>)
+- 🐦 [Twitter](<https://twitter.com/ADV_India_coder>)
 
 <br>
 
