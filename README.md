@@ -14,7 +14,7 @@
 <h2 align="center">🚀 Passionate about coding, creating content, and sharing knowledge!</h2>
 
 
-![Alt Text](relative_path_to_image/your_image_file.jpg)
+![Alt Text](https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/black%20white%20green%20modern%20illustrative%20computer%20google%20classroom%20header%20(3).png)
 
 
 
