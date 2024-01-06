@@ -14,6 +14,7 @@
 <h2 align="center">🚀 Passionate about coding, creating content, and sharing knowledge!</h2>
 
 
+![Alt Text](relative_path_to_image/your_image_file.jpg)
 
 
 
