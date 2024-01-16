@@ -125,14 +125,39 @@ Connect with me:
 
 
 
-## 📈 Github Stats:
 
-<div style="text-align: center;">
-  <div style="flex: 1;"></div> <!-- Vinay Kumar -->
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Vinaykumarmahato&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarmahato&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <div style="flex: 1;"></div> <!-- Vinay Kumar -->
+
+<h3> &#x1f4c8; GitHub Stats</h3>
+<div align="center" >
+    <a  href="https://github.com/Vinaykumarmahato">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
+    </a>
 </div>
+
+<hr>
+  
+<hr>
+</div>
+
+
+<h3 align="center">Contribution Graph </h3>
+  
+[![Vinaykumarmahato's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=github-compact)](https://github.com/Vinaykumarmahato/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vinaykumarmahato&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
@@ -174,15 +199,6 @@ Connect with me:
 
 
 
-<h2 align='center'><i><a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
 
 ## ✍️ Random Vinay kumar java developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -198,7 +214,6 @@ Connect with me:
   [![PayPal](https://img.shields.io/badge/paytm-00457C?style=for-the-badge&logo=paypal&logoColor=white)](9931860964) 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=Vinaykumarmahato&label=10236&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
