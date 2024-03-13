@@ -3,14 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
 </h1>
 
-<!-- Badges Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/java-Developer-0357F7?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/YouTuber-FF0000?style=for-the-badge&logo=youtube">
-  <img src="https://img.shields.io/badge/FrontEnd-Developer-61DAFB?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/Content-Writer-FFD700?style=for-the-badge&logo=markdown">
-  <img src="https://img.shields.io/badge/Founder-ADV+Indian+Coder-008000?style=for-the-badge">
-</p>
+
 
 <!-- Introduction Section -->
 <h2 align="center">🚀 Passionate about coding, creating content, and sharing knowledge!</h2>
@@ -40,6 +33,7 @@
 
 <!-- About Section -->
 <h1 align="center">👋 Hi, I'm Vinay Kumar, Founder of ADV Indian Coder</h1>
+
 <h2 align="center">A passionate Java Developer, Front-End Developer from India</h2>
 
 <!-- Call-to-Action Buttons -->
