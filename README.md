@@ -1,3 +1,8 @@
+
+<!-- Welcome Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
+</h1>
 <div align="center" >
     <a  href="https://github.com/Vinaykumarmahato">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
@@ -9,10 +14,7 @@
 
 <hr>
 
-<!-- Welcome Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
-</h1>
+
 
 
 
