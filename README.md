@@ -1,3 +1,14 @@
+<div align="center" >
+    <a  href="https://github.com/Vinaykumarmahato">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
+    </a>
+</div>
+
+<hr>
+
 <!-- Welcome Section -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
@@ -121,17 +132,7 @@ Connect with me:
 
 
 
-<h3> &#x1f4c8; GitHub Stats</h3>
-<div align="center" >
-    <a  href="https://github.com/Vinaykumarmahato">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
-    </a>
-</div>
 
-<hr>
   
 <hr>
 </div>
