@@ -39,7 +39,7 @@
     <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt="YouTube Icon">
   </a> 
   
-  <a href="https://vinaykumaradv.netlify.app/">
+  <a href="https://vinaykumarmahato.vercel.app/">
     <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt="Medium Icon" width=64px>
   </a>
 </p>
