@@ -126,7 +126,7 @@ Connect with me:
   <img src="https://img.shields.io/badge/Portfolio-%230e75b6.svg?logo=GeeksforGeeks&logoColor=white" alt="Portfolio" style="width: 120px; height: 40px; border: 4px solid #0e75b6; border-radius: 10px;">
 </a>
 
-<a href="https://vinaykumarmahato.github.io/Linktree/" target="_blank">
+<a href="https://vinaykumarmahato.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Linktree-%23ff69b4.svg?logo=linktree&logoColor=white" alt="Linktree" style="width: 120px; height: 40px; border: 4px solid #ff69b4; border-radius: 10px;">
 </a>
 
@@ -216,6 +216,6 @@ Connect with me:
 
  
 ## ✍️ Know More About me:
-<a href="https://Vinaykumarmahato.github.io/Linktree/">
+<a href="https://vinaykumarmahato.vercel.app/">
   <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
 </a>
