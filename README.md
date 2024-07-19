@@ -15,13 +15,16 @@
 <p align="center">
   <a href="https://www.youtube.com/@advindiancoder"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vinay-kumar-mahato/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/vinay-kumar860964/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/VinayKumar"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://t.me/advindiancoder"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ADVIndianCoder" alt="Discord" title="ADV Indian Coder Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/invite/6e2GvYV2" alt="Discord" title="ADV Indian Coder Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/vinaykumarmahato"><img width="32px" alt="Dev.to" title="Vinay Kumar Mahato Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+<a href="https://g.dev/vinaykumarmahato">
+    <img width="32px" alt="Dev.to" title="Vinay Kumar Mahato Dev.to" src="https://i.imgur.com/mVm29vK.png">
+</a>
+
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/vinaykumarmahato"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
