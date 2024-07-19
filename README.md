@@ -58,7 +58,7 @@
 
 
 <details open>
-  <summary><h2 style="color: #F1C40F; font-weight: bold;">📘 My Top Open Source Projects</h2></summary>
+  <summary><h2 style="color: #F1C40F; font-weight: bold;">📘 My Top Repositories</h2></summary>
   <p align="left">
     <a href="https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=MySQL_Zero_to_Hero&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MySQL_Zero_to_Hero">
