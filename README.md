@@ -1,4 +1,105 @@
 
+<p align="center">
+  <a href="https://github.com/Vinaykumarmahato">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vinay Kumar Mahato" /></a>
+</p>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Spring%20Boot%20Developer;Experienced%20UI%2FUX%20Designer;Passionate%20Tech%20YouTuber;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/@advindiancoder"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/vinay-kumar-mahato/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/VinayKumar"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/ADVIndianCoder" alt="Discord" title="ADV Indian Coder Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/vinaykumarmahato"><img width="32px" alt="Dev.to" title="Vinay Kumar Mahato Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/vinaykumarmahato"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+</p>
+<br/>
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/ADVIndianCoder?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/channel/ADVIndianCoder">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Vinaykumarmahato?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Vinaykumarmahato?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Vinaykumarmahato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Vinaykumarmahato/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/Profile%20views-12024-0e75b6?style=for-the-badge&logo=eye&labelColor=1155ba&logoColor=white"/></a>
+
+</p>
+<br/>
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <p align="left">
+    <a href="https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=MySQL_Zero_to_Hero&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MySQL_Zero_to_Hero"></a>
+    <a href="https://github.com/Vinaykumarmahato/Spring-Boot-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Spring-Boot-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Spring-Boot-Projects"></a>
+    <a href="https://github.com/Vinaykumarmahato/Java-Advanced-Concepts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Advanced-Concepts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Advanced-Concepts"></a>
+    <a href="https://github.com/Vinaykumarmahato/Web-Design-Templates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Web-Design-Templates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Web-Design-Templates"></a>
+    <a href="https://github.com/Vinaykumarmahato/Expense-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Expense-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Expense-Tracker"></a>
+    <a href="https://github.com/Vinaykumarmahato/Ecommerce-Platform"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Ecommerce-Platform&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ecommerce-Platform"></a>
+  </p>
+<a href="https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+
+<details> 
+  <summary><h2>📈 GitHub Stats</h2></summary>
+  <p align="center">
+    <a href="https://github.com/Vinaykumarmahato/">
+      <img src="https://github-readme-stats.vercel.app/api?username=Vinaykumarmahato&show_icons=true&theme=react&hide_border=true&icon_color=F8D866&title_color=F85D7F&include_all_commits=true&count_private=true" alt="Vinay Kumar Mahato GitHub stats" /></a>
+    <a href="https://github.com/Vinaykumarmahato/">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinaykumarmahato&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="Vinay Kumar Mahato GitHub streak" /></a>
+  </p>
+<a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph"><img alt="Vinay Kumar Mahato Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <p align="center">
+    <a href="https://github.com/Vinaykumarmahato/github-readme-stats"><img alt="Vinay Kumar Mahato Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarmahato&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  </p>
+</details>
+<details> 
+  <summary><h2>👨‍💻 Vinay Kumar Mahato</h2></summary>
+  <p align="left">
+    I am a B.Tech student at DSCET (Anna University) in Chennai, Tamil Nadu, India, majoring in Information Technology and graduating in 2025. As the founder of ADV Indian Coder, Inoglle, and ADV SparkTech, I lead and mentor teams to drive innovation in technology projects. My expertise includes object-oriented programming in Java, Spring Framework, and Hibernate. I am dedicated to continuous learning and passionate about solving real-world problems through technology.
+  </p>
+  <p align="left">
+    I am also an enthusiastic YouTuber, creating videos about technology on my channel, ADV Indian Coder. My goal is to share knowledge and inspire others to pursue their passion for technology.
+  </p>
+</details>
+
+<details>
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  <!-- YOUTUBE-VIDEOS-LIST:START -->
+  <!-- YOUTUBE-VIDEOS-LIST:END -->
+<a href="https://www.youtube.com/channel/ADVIndianCoder"><img alt="YouTube Channel Subscribers" src="https://freshidea.com/jonah/youtube-stats-badges/subscribers-badge.php?label=Subscribers&user=ADVIndianCoder&color=red&logo=logo&style=for-the-badge" /></a>
+<a href="https://www.youtube.com/channel/ADVIndianCoder"><img alt="YouTube Channel Views" src="https://freshidea.com/jonah/youtube-stats-badges/view-count-badge.php?label=Views&user=ADVIndianCoder&color=red&logo=logo&style=for-the-badge" /></a>
+
+</details>
+
+
+
+<details> 
+  <summary><h2>💬 Contact</h2></summary>
+  <p align="center">
+    <a href="mailto:vinaykumarmahato@gmail.com"><img src="https://img.shields.io/badge/Email-vinaykumarmahato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://twitter.com/VinayKumar"><img src="https://img.shields.io/badge/Twitter-@VinayKumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://linkedin.com/in/vinaykumarmahato"><img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/Vinaykumarmahato"><img src="https://img.shields.io/badge/GitHub-Vinaykumarmahato-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
+</details>
+
+
+
+
 <!-- Welcome Section -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
