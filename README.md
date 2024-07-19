@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://github.com/Vinaykumarmahato">
-  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/im.png" alt="Vinay Kumar Mahato" width="350" height="140" style="border-radius: 10px;" />
+  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/Black%20and%20Green%20Professional%20Business%20LinkedIn%20Career%20Page%20Background%20(3).png" alt="Vinay Kumar Mahato style="border-radius: 10px;" />
 </a>
 
 </p>
