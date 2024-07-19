@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://github.com/Vinaykumarmahato">
-  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/Black%20and%20Green%20Professional%20Business%20LinkedIn%20Career%20Page%20Background%20(3).png" alt="Vinay Kumar Mahato style="border-radius: 10px;" />
+  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/rrr.png" alt="Vinay Kumar Mahato style="border-radius: 10px;" />
 </a>
 
 </p>
@@ -25,8 +25,6 @@
     <img width="32px" alt="Dev.to" title="Vinay Kumar Mahato Dev.to" src="https://i.imgur.com/mVm29vK.png">
 </a>
 
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/vinaykumarmahato"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 <br/>
 <!-- Social badges section -->
