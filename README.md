@@ -4,8 +4,7 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vinay Kumar Mahato" /></a>
 </p>
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/Vinaykumarmahato/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Spring%20Boot%20Developer;Experienced%20UI%2FUX%20Designer;Passionate%20Tech%20YouTuber;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <!-- Social icons section -->
@@ -39,17 +38,70 @@
 </p>
 <br/>
 
-<details open> 
+<details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=MySQL_Zero_to_Hero&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MySQL_Zero_to_Hero"></a>
-    <a href="https://github.com/Vinaykumarmahato/Spring-Boot-Projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Spring-Boot-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Spring-Boot-Projects"></a>
-    <a href="https://github.com/Vinaykumarmahato/Java-Advanced-Concepts"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Advanced-Concepts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Advanced-Concepts"></a>
-    <a href="https://github.com/Vinaykumarmahato/Web-Design-Templates"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Web-Design-Templates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Web-Design-Templates"></a>
-    <a href="https://github.com/Vinaykumarmahato/Expense-Tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Expense-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Expense-Tracker"></a>
-    <a href="https://github.com/Vinaykumarmahato/Ecommerce-Platform"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Ecommerce-Platform&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ecommerce-Platform"></a>
+    <a href="https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=MySQL_Zero_to_Hero&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MySQL_Zero_to_Hero">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Important-API-and-Anotations-in-java">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Important-API-and-Anotations-in-java&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Important-API-and-Anotations-in-java">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Java-Advanced-Concepts">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Advanced-Concepts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Advanced-Concepts">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Web-Design-Templates">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Web-Design-Templates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Web-Design-Templates">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Expense-Tracker">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Expense-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Expense-Tracker">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Ecommerce-Platform">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Ecommerce-Platform&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ecommerce-Platform">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/OOP_Fortress_Exploration_Revision">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=OOP_Fortress_Exploration_Revision&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="OOP_Fortress_Exploration_Revision">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Java-Collection-Framework-Exploration">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Collection-Framework-Exploration&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Collection-Framework-Exploration">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java_Basics_Exploration_Revision&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java_Basics_Exploration_Revision">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Java-Programming-Journey-with-Edureka">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Programming-Journey-with-Edureka&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Programming-Journey-with-Edureka">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Advanced-Text-Editor">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Advanced-Text-Editor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Advanced-Text-Editor">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/CodeGeeksHubSolutions">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=CodeGeeksHubSolutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CodeGeeksHubSolutions">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Random-Set--On-Site-Interview">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Random-Set--On-Site-Interview&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Random-Set--On-Site-Interview">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Google-Online-Assessment-Solution-in-java&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Google-Online-Assessment-Solution-in-java">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Anna-university-Computer-Networks-Experiment-lab">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Anna-university-Computer-Networks-Experiment-lab&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Anna-university-Computer-Networks-Experiment-lab">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/Anna-university-Full-stack-development-Experiment-lab">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Anna-university-Full-stack-development-Experiment-lab&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Anna-university-Full-stack-development-Experiment-lab">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/40-Day-Java-Mastery-Challenge-with-complete-Roadmap">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=40-Day-Java-Mastery-Challenge-with-complete-Roadmap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="40-Day-Java-Mastery-Challenge-with-complete-Roadmap">
+    </a>
+    <a href="https://github.com/Vinaykumarmahato/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5">
+    </a>
   </p>
-<a href="https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
+
+
 
 
 <details> 
