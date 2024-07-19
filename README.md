@@ -38,26 +38,15 @@
 </p>
 <br/>
 
+
 <details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2 style="color: #F1C40F; font-weight: bold;">📘 My Top Open Source Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=MySQL_Zero_to_Hero&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MySQL_Zero_to_Hero">
     </a>
     <a href="https://github.com/Vinaykumarmahato/Important-API-and-Anotations-in-java">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Important-API-and-Anotations-in-java&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Important-API-and-Anotations-in-java">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Java-Advanced-Concepts">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Advanced-Concepts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Advanced-Concepts">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Web-Design-Templates">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Web-Design-Templates&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Web-Design-Templates">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Expense-Tracker">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Expense-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Expense-Tracker">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Ecommerce-Platform">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Ecommerce-Platform&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ecommerce-Platform">
     </a>
     <a href="https://github.com/Vinaykumarmahato/OOP_Fortress_Exploration_Revision">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=OOP_Fortress_Exploration_Revision&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="OOP_Fortress_Exploration_Revision">
@@ -100,7 +89,6 @@
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
-
 
 
 
