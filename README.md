@@ -1,7 +1,9 @@
 
+
+
 <p align="center">
   <a href="https://github.com/Vinaykumarmahato">
-  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/image.png" alt="Vinay Kumar Mahato" width="100" height="100" />
+  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/im.png" alt="Vinay Kumar Mahato" width="300" height="140" />
 </a>
 
 </p>
