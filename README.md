@@ -1,11 +1,13 @@
 
 <p align="center">
   <a href="https://github.com/Vinaykumarmahato">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vinay Kumar Mahato" /></a>
+  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/image.png" alt="Vinay Kumar Mahato" width="100" height="100" />
+</a>
+
 </p>
 <p align="center">
   <a href="https://github.com/Vinaykumarmahato/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Spring%20Boot%20Developer;Experienced%20UI%2FUX%20Designer;Passionate%20Tech%20YouTuber;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Spring%20Boot%20Developer;Tech%20YouTuber;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
@@ -37,6 +39,22 @@
 
 </p>
 <br/>
+
+
+<!-- Welcome Section -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
+</h1>
+<div align="center" >
+    <a  href="https://github.com/Vinaykumarmahato">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
+    </a>
+</div>
+
+<hr>
 
 
 <details open>
@@ -140,30 +158,11 @@
 
 
 
-<!-- Welcome Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
-</h1>
-<div align="center" >
-    <a  href="https://github.com/Vinaykumarmahato">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
-    </a>
-</div>
-
-<hr>
 
 
 
 
 
-<!-- Introduction Section -->
-<h2 align="center">🚀 Passionate about coding, creating content, and sharing knowledge!</h2>
-
-<!-- Header Image -->
-![Alt Text](https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/DSCET%20SparkTech.png)
 
 <!-- Social Media Links Section -->
 <br>
@@ -186,9 +185,8 @@
 </p>
 
 <!-- About Section -->
-<h1 align="center">👋 Hi, I'm Vinay Kumar, Founder of ADV Indian Coder</h1>
 
-<h2 align="center">A passionate Java Developer, Front-End Developer from India</h2>
+<h2 align="center">A passionate Java Spring boot Developer, Front-End Developer from India</h2>
 
 <!-- Call-to-Action Buttons -->
 <a class="libutton" href="https://www.linkedin.com/company/adv-indian-coder/?miniCompanyUrn=urn%3Ali%3Afs_miniCompany%3A96634760&lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3Bfkq6jeCsQGSZn9%2FQ5mhF4Q%3D%3D" target="_blank">⚡Follow My Company Page 🌱🌱🌱</a>
