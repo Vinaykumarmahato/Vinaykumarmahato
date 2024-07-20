@@ -9,13 +9,13 @@ on:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest  # Change to 'windows-latest' or 'macos-latest' if needed
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
       - name: Fetch Latest YouTube Videos
-        uses: jonahsnider/youtube-readme-stats@v1
+        uses: caryll/youtube-videos-action@v1
         with:
           youtube_channel_id: UC0ko1eD3SXTvuBJfJHOQuUQ
           readme_file: README.md
