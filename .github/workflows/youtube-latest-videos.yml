@@ -1,0 +1,32 @@
+name: Update YouTube Videos
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Latest YouTube Videos
+        uses: jonahsnider/youtube-readme-stats@v1
+        with:
+          youtube_channel_id: UC0ko1eD3SXTvuBJfJHOQuUQ
+          readme_file: README.md
+          videos_list_start: <!-- YOUTUBE-VIDEOS-LIST:START -->
+          videos_list_end: <!-- YOUTUBE-VIDEOS-LIST:END -->
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update latest YouTube videos'
+          git push
