@@ -152,9 +152,9 @@
 <details> 
   <summary><h2>💬 Contact</h2></summary>
   <p align="center">
-    <a href="mailto:vinaykumarmahato@gmail.com"><img src="https://img.shields.io/badge/Email-vinaykumarmahato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://twitter.com/VinayKumar"><img src="https://img.shields.io/badge/Twitter-@VinayKumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-    <a href="https://linkedin.com/in/vinaykumarmahato"><img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:vinaykumar860964@gmail.com"><img src="https://img.shields.io/badge/Email-vinaykumar860964@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://t.me/advindiancoder"><img src="https://img.shields.io/badge/Telegram@ADVindiancoder-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://www.linkedin.com/in/vinay-kumar860964/"><img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/Vinaykumarmahato"><img src="https://img.shields.io/badge/GitHub-Vinaykumarmahato-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 </details>
