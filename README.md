@@ -137,13 +137,16 @@
   </p>
 </details>
 
+
 <details>
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
   <!-- YOUTUBE-VIDEOS-LIST:START -->
+  <a href="https://youtube.com/shorts/f-MPdTDXNIo?si=BSqnnikr4rUzm-FV">Latest Video Title</a>
+  <a href="https://youtube.com/shorts/1DPjHUBcjg0?si=UyBF11kptWbIZ1-z">Another Video Title</a>
+  <a href="https://youtube.com/shorts/jJC5Jzjc95Q?si=dbnRJ1qcqTPej2ir">Another Video Title</a>
   <!-- YOUTUBE-VIDEOS-LIST:END -->
-<a href="https://www.youtube.com/channel/ADVIndianCoder"><img alt="YouTube Channel Subscribers" src="https://freshidea.com/jonah/youtube-stats-badges/subscribers-badge.php?label=Subscribers&user=ADVIndianCoder&color=red&logo=logo&style=for-the-badge" /></a>
-<a href="https://www.youtube.com/channel/ADVIndianCoder"><img alt="YouTube Channel Views" src="https://freshidea.com/jonah/youtube-stats-badges/view-count-badge.php?label=Views&user=ADVIndianCoder&color=red&logo=logo&style=for-the-badge" /></a>
-
+  <a href="https://www.youtube.com/channel/ADVIndianCoder"><img alt="YouTube Channel Subscribers" src="https://freshidea.com/jonah/youtube-stats-badges/subscribers-badge.php?label=Subscribers&user=ADVIndianCoder&color=red&logo=logo&style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/channel/ADVIndianCoder"><img alt="YouTube Channel Views" src="https://freshidea.com/jonah/youtube-stats-badges/view-count-badge.php?label=Views&user=ADVIndianCoder&color=red&logo=logo&style=for-the-badge" /></a>
 </details>
 
 
