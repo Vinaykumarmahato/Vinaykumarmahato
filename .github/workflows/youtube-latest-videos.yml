@@ -2,7 +2,6 @@ name: Update YouTube Videos
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
   push:
     branches:
@@ -10,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Change to 'windows-latest' or 'macos-latest' if needed
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
