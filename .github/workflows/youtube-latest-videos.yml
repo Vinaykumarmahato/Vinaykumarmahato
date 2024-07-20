@@ -14,13 +14,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Fetch Latest YouTube Videos
-        uses: caryll/youtube-videos-action@v1
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          youtube_channel_id: UC0ko1eD3SXTvuBJfJHOQuUQ
-          readme_file: README.md
-          videos_list_start: <!-- YOUTUBE-VIDEOS-LIST:START -->
-          videos_list_end: <!-- YOUTUBE-VIDEOS-LIST:END -->
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install google-api-python-client
+
+      - name: Fetch Latest YouTube Videos
+        run: |
+          python fetch_youtube_videos.py
 
       - name: Commit and Push Changes
         run: |
