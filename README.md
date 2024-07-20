@@ -155,7 +155,7 @@
     <a href="mailto:vinaykumar860964@gmail.com"><img src="https://img.shields.io/badge/Email-vinaykumar860964@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://t.me/advindiancoder"><img src="https://img.shields.io/badge/Telegram@ADVindiancoder-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://www.linkedin.com/in/vinay-kumar860964/"><img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/Vinaykumarmahato"><img src="https://img.shields.io/badge/GitHub-Vinaykumarmahato-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://vinaykumar-adv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-MyPortfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
   </p>
 </details>
 
