@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://github.com/Vinaykumarmahato">
-  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/Github%20profile.gif" alt="Vinay Kumar Mahato style="border-radius: 10px;" />
+  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/github%20profile%202.gif" alt="Vinay Kumar Mahato style="border-radius: 10px;" />
 </a>
 
 </p>
