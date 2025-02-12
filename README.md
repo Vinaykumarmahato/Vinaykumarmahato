@@ -1,33 +1,24 @@
 
-
-
 <p align="center">
  <a href="https://github.com/Vinaykumarmahato">
-  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/github%20profile%202.gif" alt="Vinay Kumar Mahato style="border-radius: 10px;" />
+  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/github%20profile%202.gif" alt="Vinay Kumar Mahato" style="border-radius: 10px;" />
 </a>
+</p>
 
-</p>
-<p align="center">
-  <a href="https://github.com/Vinaykumarmahato/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Spring%20Boot%20Developer;Tech%20YouTuber;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/@advindiancoder"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vinay-kumar860964/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/advindiancoder"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/invite/6e2GvYV2" alt="Discord" title="ADV Indian Coder Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://g.dev/vinaykumarmahato">
-    <img width="32px" alt="Dev.to" title="Vinay Kumar Mahato Dev.to" src="https://i.imgur.com/mVm29vK.png">
-</a>
+<hr style="border: 1px solid white;">
 
-</p>
-<br/>
-<!-- Social badges section -->
+<div align="center" >
+    <a href="https://github.com/Vinaykumarmahato">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
+    </a>
+</div>
+
+
+
+<!-- Social badges section 
 <p align="center">
   <a href="https://www.youtube.com/channel/ADVIndianCoder?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -40,24 +31,18 @@
   <a href="https://github.com/Vinaykumarmahato/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/Profile%20views-12024-0e75b6?style=for-the-badge&logo=eye&labelColor=1155ba&logoColor=white"/></a>
 
-</p>
-<br/>
+</p> -->
 
 
-<!-- Welcome Section -->
+
+<!-- Welcome Section 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!">
-</h1>
-<div align="center" >
-    <a  href="https://github.com/Vinaykumarmahato">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
-    </a>
-</div>
+</h1 -->
 
-<hr>
+
+
+
 
 
 <details open>
