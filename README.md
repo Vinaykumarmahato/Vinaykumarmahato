@@ -113,29 +113,9 @@
 
 
 
-<details> 
-  <summary><h2>📈 GitHub Stats</h2></summary>
-  <p align="center">
-    <a href="https://github.com/Vinaykumarmahato/">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vinaykumarmahato&show_icons=true&theme=react&hide_border=true&icon_color=F8D866&title_color=F85D7F&include_all_commits=true&count_private=true" alt="Vinay Kumar Mahato GitHub stats" /></a>
-    <a href="https://github.com/Vinaykumarmahato/">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinaykumarmahato&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="Vinay Kumar Mahato GitHub streak" /></a>
-  </p>
-<a href="https://github.com/Vinaykumarmahato/github-readme-activity-graph"><img alt="Vinay Kumar Mahato Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <p align="center">
-    <a href="https://github.com/Vinaykumarmahato/github-readme-stats"><img alt="Vinay Kumar Mahato Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarmahato&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  </p>
-</details>
-<details> 
-  <summary><h2>👨‍💻 Vinay Kumar Mahato</h2></summary>
-  <p align="left">
-    I am a B.Tech student at DSCET (Anna University) in Chennai, Tamil Nadu, India, majoring in Information Technology and graduating in 2025. As the founder of ADV Indian Coder, Inoglle, and ADV SparkTech, I lead and mentor teams to drive innovation in technology projects. My expertise includes object-oriented programming in Java, Spring Framework, and Hibernate. I am dedicated to continuous learning and passionate about solving real-world problems through technology.
-  </p>
-  <p align="left">
-    I am also an enthusiastic YouTuber, creating videos about technology on my channel, ADV Indian Coder. My goal is to share knowledge and inspire others to pursue their passion for technology.
-  </p>
-</details>
+
+
 
 
 <details>
@@ -145,21 +125,6 @@
   <a href="https://youtube.com/shorts/jJC5Jzjc95Q?si=dbnRJ1qcqTPej2ir"><img src="https://img.youtube.com/vi/jJC5Jzjc95Q/0.jpg" alt="YouTube Video"></a>
  
 </details>
-
-
-
-
-<details> 
-  <summary><h2>💬 Contact</h2></summary>
-  <p align="center">
-    <a href="mailto:vinaykumar860964@gmail.com"><img src="https://img.shields.io/badge/Email-vinaykumar860964@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://t.me/advindiancoder"><img src="https://img.shields.io/badge/Telegram@ADVindiancoder-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"></a>
-    <a href="https://www.linkedin.com/in/vinay-kumar860964/"><img src="https://img.shields.io/badge/LinkedIn-Vinay%20Kumar%20Mahato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://vinaykumar-adv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-MyPortfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
-  </p>
-</details>
-
-
 
 
 
