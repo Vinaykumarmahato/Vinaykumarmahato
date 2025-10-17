@@ -1,0 +1,51 @@
+name: Update Top Repositories in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight UTC
+  workflow_dispatch: # allows manual run
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Get top starred repos
+      uses: octokit/request-action@v3
+      id: repos
+      with:
+        route: GET /users/Vinaykumarmahato/repos?sort=stars&per_page=5
+
+    - name: Generate README section
+      run: |
+        echo "<details open>
+<summary><h2 style='color: #F1C40F; font-weight: bold;'>📘 My Top Repositories</h2></summary>
+<p align='left'>" > top-repos.html
+        echo "${{ steps.repos.outputs.data }}" | jq -r '.[] | "<a href=\"\(.html_url)\"><img width=\"278\" src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=\(.name)&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false\" alt=\"\(.name)\"></a>"' >> top-repos.html
+        echo "</p>
+<p align='center'>
+<a href='https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers'>
+<img alt='All Repositories' title='All Repositories' src='https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo'/>
+</a>
+</p>
+</details>" >> top-repos.html
+
+    - name: Update README
+      run: |
+        # Remove old section between <!--TOP_REPOS_START--> and <!--TOP_REPOS_END-->
+        sed -i '/<!--TOP_REPOS_START-->/, /<!--TOP_REPOS_END-->/d' README.md
+        # Add new section
+        echo "<!--TOP_REPOS_START-->" >> README.md
+        cat top-repos.html >> README.md
+        echo "<!--TOP_REPOS_END-->" >> README.md
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update top 5 starred repositories"
+        git push
