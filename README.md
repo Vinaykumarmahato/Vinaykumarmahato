@@ -45,60 +45,12 @@
 
 
 
+<!--TOP_REPOS_START-->
 <details open>
   <summary><h2 style="color: #F1C40F; font-weight: bold;">📘 My Top Repositories</h2></summary>
-  <p align="left">
-    <a href="https://github.com/Vinaykumarmahato/MySQL_Zero_to_Hero">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=MySQL_Zero_to_Hero&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MySQL_Zero_to_Hero">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Important-API-and-Anotations-in-java">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Important-API-and-Anotations-in-java&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Important-API-and-Anotations-in-java">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/OOP_Fortress_Exploration_Revision">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=OOP_Fortress_Exploration_Revision&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="OOP_Fortress_Exploration_Revision">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Java-Collection-Framework-Exploration">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Collection-Framework-Exploration&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Collection-Framework-Exploration">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java_Basics_Exploration_Revision&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java_Basics_Exploration_Revision">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Java-Programming-Journey-with-Edureka">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Java-Programming-Journey-with-Edureka&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Java-Programming-Journey-with-Edureka">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Advanced-Text-Editor">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Advanced-Text-Editor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Advanced-Text-Editor">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/CodeGeeksHubSolutions">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=CodeGeeksHubSolutions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CodeGeeksHubSolutions">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Random-Set--On-Site-Interview">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Random-Set--On-Site-Interview&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Random-Set--On-Site-Interview">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Google-Online-Assessment-Solution-in-java">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Google-Online-Assessment-Solution-in-java&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Google-Online-Assessment-Solution-in-java">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Anna-university-Computer-Networks-Experiment-lab">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Anna-university-Computer-Networks-Experiment-lab&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Anna-university-Computer-Networks-Experiment-lab">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/Anna-university-Full-stack-development-Experiment-lab">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=Anna-university-Full-stack-development-Experiment-lab&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Anna-university-Full-stack-development-Experiment-lab">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/40-Day-Java-Mastery-Challenge-with-complete-Roadmap">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=40-Day-Java-Mastery-Challenge-with-complete-Roadmap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="40-Day-Java-Mastery-Challenge-with-complete-Roadmap">
-    </a>
-    <a href="https://github.com/Vinaykumarmahato/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5">
-    </a>
-  </p>
-  <a href="https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+  <!-- Your current repos go here, will be replaced automatically -->
 </details>
-
-
-
-
+<!--TOP_REPOS_END-->
 
 
 
