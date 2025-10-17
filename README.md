@@ -127,7 +127,7 @@ Feel free to explore my GitHub repositories for code snippets, projects, and mor
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="width: 80px; height: 40px; border: 4px solid #ff0000; border-radius: 10px;">
 </a>
 
-<a href="https://leetcode.com/vinaykumarADV/" target="_blank">
+<a href="https://www.youtube.com/@ADVIndianCoder-i9y" target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?logo=Leetcode&logoColor=white" alt="Leetcode" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
 </a>
 
@@ -136,12 +136,8 @@ Feel free to explore my GitHub repositories for code snippets, projects, and mor
 </a>
 
 
-<a href="https://vinaykumarmahato.github.io/vinay-kumar-portfolio/" target="_blank">
+<a href="https://vinayofficial.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%230e75b6.svg?logo=GeeksforGeeks&logoColor=white" alt="Portfolio" style="width: 120px; height: 40px; border: 4px solid #0e75b6; border-radius: 10px;">
-</a>
-
-<a href="https://vinaykumarmahato.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Linktree-%23ff69b4.svg?logo=linktree&logoColor=white" alt="Linktree" style="width: 120px; height: 40px; border: 4px solid #ff69b4; border-radius: 10px;">
 </a>
 
 
