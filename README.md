@@ -115,7 +115,7 @@ Feel free to explore my GitHub repositories for code snippets, projects, and mor
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 80px; height: 40px; border: 4px solid #e4405f; border-radius: 10px;">
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinay-kumar860964" target="_blank" style="margin-right: 20px;">
+<a href="https://www.linkedin.com/in/vinay-kumar860964" target="_blank" style="margin-right: 20px;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 40px; border: 4px solid #0077b5; border-radius: 10px;">
 </a>
 
