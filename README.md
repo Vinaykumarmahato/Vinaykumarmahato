@@ -1,7 +1,7 @@
 
 <p align="center">
  <a href="https://github.com/Vinaykumarmahato">
-  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/White%20And%20Blue%20Modern%20Call%20Center%20And%20Telemarketing%20Service%20Banner.gif" alt="Vinay Kumar Mahato" style="border-radius: 10px;" />
+  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/Hi%2C%20I'm%20Vinay%20Kumar%20Mahato.gif" alt="Vinay Kumar Mahato" style="border-radius: 10px;" />
 </a>
 </p>
 
