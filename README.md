@@ -103,13 +103,7 @@
 
 
 
-<details>
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-  <a href="https://youtube.com/shorts/f-MPdTDXNIo?si=BSqnnikr4rUzm-FV"><img src="https://img.youtube.com/vi/f-MPdTDXNIo/0.jpg" alt="YouTube Video"></a>
-  <a href="https://youtube.com/shorts/1DPjHUBcjg0?si=UyBF11kptWbIZ1-z"><img src="https://img.youtube.com/vi/1DPjHUBcjg0/0.jpg" alt="YouTube Video"></a>
-  <a href="https://youtube.com/shorts/jJC5Jzjc95Q?si=dbnRJ1qcqTPej2ir"><img src="https://img.youtube.com/vi/jJC5Jzjc95Q/0.jpg" alt="YouTube Video"></a>
- 
-</details>
+
 
 
 
@@ -138,11 +132,7 @@
   </a>
 </p>
 
-<!-- About Section -->
 
- <a href="https://github.com/Vinaykumarmahato">
-  <img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/company.png" alt="Vinay Kumar Mahato style="border-radius: 10px;" />
-</a>
 
 
 ## 🌟 Professional Background
