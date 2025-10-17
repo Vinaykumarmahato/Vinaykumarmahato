@@ -18,6 +18,11 @@
 
 
 
+<h3 align="center">Contribution Graph </h3>
+  
+[![Vinaykumarmahato's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=github-compact)](https://github.com/Vinaykumarmahato/github-readme-activity-graph)
+
+
 <!-- Social badges section 
 <p align="center">
   <a href="https://www.youtube.com/channel/ADVIndianCoder?sub_confirmation=1">
@@ -89,10 +94,6 @@ I bring with me five years of teaching experience, effectively communicating com
 
 Feel free to explore my GitHub repositories for code snippets, projects, and more. Let's code and learn together! 🚀
 
-Connect with me:
-- 📺 [YouTube](<https://youtube.com/@advindiancoder>)
-- 💼 [LinkedIn](<https://www.linkedin.com/in/vinay-kumar860964>)
-- 🐦 [Twitter](<https://twitter.com/ADV_India_coder>)
 
 <br>
 
@@ -153,9 +154,6 @@ Connect with me:
 </div>
 
 
-<h3 align="center">Contribution Graph </h3>
-  
-[![Vinaykumarmahato's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinaykumarmahato&theme=github-compact)](https://github.com/Vinaykumarmahato/github-readme-activity-graph)
 
 
 
@@ -172,8 +170,7 @@ Connect with me:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vinaykumarmahato&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/ADV_India_coder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ## 🛡️ LeetCode Badges 
 <p align="">
@@ -229,6 +226,6 @@ Connect with me:
 
  
 ## ✍️ Know More About me:
-<a href="https://vinaykumarmahato.vercel.app/">
+<a href="https://vinayofficial.vercel.app/">
   <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
 </a>
