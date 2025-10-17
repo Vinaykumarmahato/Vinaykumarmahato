@@ -8,74 +8,65 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    # Grant permissions for the workflow to write to the repository.
     permissions:
-      contents: write
+      contents: write # Needed to commit changes to the repo
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Get top starred repos
-      uses: octokit/request-action@v3
-      id: repos
-      with:
-        route: GET /users/Vinaykumarmahato/repos?sort=stars&per_page=5
-      # Your GitHub token is automatically used by default.
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Get top starred repos
+        uses: octokit/request-action@v3
+        id: repos
+        with:
+          route: GET /users/Vinaykumarmahato/repos?sort=stars&per_page=5
 
-    - name: Generate README section
-      run: |
-        echo "<details open>" > top-repos.html
-        echo "<summary><h2 style='color: #F1C40F; font-weight: bold;'>📘 My Top Repositories</h2></summary>" >> top-repos.html
-        echo "<p align='left'>" >> top-repos.html
-        echo "${{ steps.repos.outputs.data }}" | jq -r '.[] | "<a href=\"\(.html_url)\"><img width=\"278\" src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=\(.name)&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false\" alt=\"\(.name)\"></a>"' >> top-repos.html
-        echo "</p>" >> top-repos.html
-        echo "<p align='center'>" >> top-repos.html
-        echo "<a href='https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers'>" >> top-repos.html
-        echo "<img alt='All Repositories' title='All Repositories' src='https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo'/>" >> top-repos.html
-        echo "</a>" >> top-repos.html
-        echo "</p>" >> top-repos.html
-        echo "</details>" >> top-repos.html
+      - name: Generate README section
+        run: |
+          echo "<details open>" > top-repos.html
+          echo "<summary><h2 style='color: #F1C40F; font-weight: bold;'>📘 My Top Repositories</h2></summary>" >> top-repos.html
+          echo "<p align='left'>" >> top-repos.html
+          echo "${{ steps.repos.outputs.data }}" | jq -r '.[] | "<a href=\"\(.html_url)\"><img width=\"278\" src=\"https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinaykumarmahato&repo=\(.name)&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false\" alt=\"\(.name)\"></a>"' >> top-repos.html
+          echo "</p>" >> top-repos.html
+          echo "<p align='center'>" >> top-repos.html
+          echo "<a href='https://github.com/Vinaykumarmahato?tab=repositories&sort=stargazers'>" >> top-repos.html
+          echo "<img alt='All Repositories' title='All Repositories' src='https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo'/>" >> top-repos.html
+          echo "</a>" >> top-repos.html
+          echo "</p>" >> top-repos.html
+          echo "</details>" >> top-repos.html
 
-    - name: Update README
-      run: |
-        # Use a temporary file to store the new content
-        start_marker="<!--TOP_REPOS_START-->"
-        end_marker="<!--TOP_REPOS_END-->"
-        
-        # Create the new content block
-        {
-          echo "$start_marker"
-          cat top-repos.html
-          echo "$end_marker"
-        } > new_section.md
-        
-        # Replace the old block with the new one in README.md
-        awk -v new_section="$(<new_section.md)" '
-        BEGIN {
-          p = 1
-        }
-        $0 == "<!--TOP_REPOS_START-->" {
-          print new_section
-          p = 0
-        }
-        $0 == "<!--TOP_REPOS_END-->" {
-          p = 1
-          next
-        }
-        p
-        ' README.md > README.md.tmp && mv README.md.tmp README.md
+      - name: Update README
+        run: |
+          start_marker="<!--TOP_REPOS_START-->"
+          end_marker="<!--TOP_REPOS_END-->"
+          
+          {
+            echo "$start_marker"
+            cat top-repos.html
+            echo "$end_marker"
+          } > new_section.md
+          
+          awk -v new_section="$(<new_section.md)" '
+          BEGIN { p = 1 }
+          $0 == "<!--TOP_REPOS_START-->" {
+            print new_section
+            p = 0
+          }
+          $0 == "<!--TOP_REPOS_END-->" {
+            p = 1
+            next
+          }
+          p
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
 
-    - name: Commit and push changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        # Check if there are changes to commit
-        if ! git diff --quiet README.md; then
-          git add README.md
-          git commit -m " chore: Update top 5 starred repositories"
-          git push
-        else
-          echo "No changes to commit."
-        fi
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m " chore: Update top 5 starred repositories"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
