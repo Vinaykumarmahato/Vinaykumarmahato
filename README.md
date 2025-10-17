@@ -112,25 +112,6 @@
 
 
 
-<!-- Social Media Links Section -->
-<br>
-<p align="center"> 
-  <a href="https://twitter.com/ADV_India_coder">
-    <img src="https://user-images.githubusercontent.com/61582763/195151346-677c8197-2950-4b50-a0cd-af7d84c812a9.png" alt="Twitter Icon">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/vinay-kumar860964">
-    <img src="https://user-images.githubusercontent.com/61582763/195151461-61e11fc9-6bbc-4ef5-939a-a75126302a94.png" alt="LinkedIn Icon">
-  </a>
-
-  <a href="https://youtube.com/@advindiancoder">
-    <img src="https://user-images.githubusercontent.com/61582763/195150275-6c3d5420-cf2f-4bb9-8a19-7a323f8d0c40.png" alt="YouTube Icon">
-  </a> 
-  
-  <a href="https://vinaykumarmahato.vercel.app/">
-    <img src="https://user-images.githubusercontent.com/61582763/195259844-5fc8775f-2f4a-40cd-ba25-9ad39a4faaa4.png" alt="Medium Icon" width=64px>
-  </a>
-</p>
 
 
 
