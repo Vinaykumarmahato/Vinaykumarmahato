@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to commit changes to the repo
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -64,7 +64,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if ! git diff --quiet README.md; then
             git add README.md
-            git commit -m " chore: Update top 5 starred repositories"
+            git commit -m "chore: Update top 5 starred repositories"
             git push
           else
             echo "No changes to commit."
