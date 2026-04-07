@@ -21,7 +21,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@advindiancoder)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ADV_India_coder)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vinay_software_engineer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://vinayofficial.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://vinaykumarmahato.vercel.app/)
 
 </div>
 
@@ -226,21 +226,6 @@ Every resume leads to a real job.
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Vinaykumarmahato&limit=5&theme=dark&combine_all_yearly_contributions=true" width="98%" />
-</div>
-
----
-
-## 😂 Dev Humor of the Day
-
-<div align="center">
-  <img src="https://rm.up.railway.app/" width="480px" alt="Dev Meme" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -253,7 +238,7 @@ Every resume leads to a real job.
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@advindiancoder)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vinaykumarmahato)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-%23298D46.svg?style=for-the-badge&logo=GeeksForGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vinaykumazhjn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://vinayofficial.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230e75b6.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://vinaykumarmahato.vercel.app/)
 
 </div>
 
@@ -275,7 +260,6 @@ Every resume leads to a real job.
 Self-taught.  Self-built.  Still teaching.
 ```
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Vinaykumarmahato&label=Profile+Views&color=11&icon=5&pretty=true)
 
 **Made with ❤️ from Bihar to the World** 🌍
 
