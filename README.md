@@ -34,12 +34,14 @@ public class VinayKumarMahato {
 }
 
 
-<div align="center">
-<a href="https://github.com/Vinaykumarmahato">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3DVinaykumarmahato%26theme%3Ddark" width="32%">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language%3Fusername%3DVinaykumarmahato%26theme%3Ddark" width="32%">
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3DVinaykumarmahato%26theme%3Ddark" width="32%">
-</a>
+<div align="center" >
+    <a href="https://github.com/Vinaykumarmahato">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinaykumarmahato&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinaykumarmahato&theme=dark" width="100%" height="50%">
+    </a>
+</div>
 
 
 
