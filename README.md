@@ -1,9 +1,9 @@
 
+
+<!--
 ![Vinay](https://raw.githubusercontent.com/Vinaykumarmahato/Vinaykumarmahato/main/dark.svg#gh-dark-mode-only)
 ![Vinay](https://raw.githubusercontent.com/Vinaykumarmahato/Vinaykumarmahato/main/light%20(1).svg#gh-light-mode-only)
-
-
-
+-->
 
 
 ## 📊 GitHub Stats
